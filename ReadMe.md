@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Fitness management website<br><br>🌱 I’m currently learning MERN stack<br><br>⚡ Fun fact 
+🔭 I’m currently working on a Fitness management website<br><br>🌱 I’m currently learning MERN stack<br><br> 
 
 
 ## 🌐 Socials:
