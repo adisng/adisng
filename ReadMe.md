@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4EA94B&center=true&vCenter=true&width=650&lines=Building+AI-powered+full-stack+apps;FastAPI+%2B+Next.js+%2B+LLMs+%2B+n8n;Currently+shipping+a+vanilla+JS+canvas+game+%F0%9F%8E%AE;Exploring+AWS+%26+agentic+automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FE428E&center=true&vCenter=true&width=650&lines=Building+AI-powered+full-stack+apps;FastAPI+%2B+Next.js+%2B+LLMs+%2B+n8n;Currently+shipping+a+vanilla+JS+canvas+game+%F0%9F%8E%AE;Exploring+AWS+%26+agentic+automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=adisng&icon=5&color=4" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ### 🧑‍💻 About Me
 
@@ -21,13 +21,13 @@
 - 🌱 Currently sharpening my **AWS Cloud Services** skills
 - 💬 Always happy to talk full-stack architecture, AI agents/automation (n8n), or game dev
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ### 📈 Live Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adisng&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adisng&theme=radical&hide_border=true&area=true&bg_color=141321" width="100%"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ### 🚀 Featured Projects
 
@@ -51,7 +51,7 @@
 <!-- Tip: wrap each project title in a link to its repo, e.g.
      [🦆 Duck Hunter: Definitive Edition](https://github.com/adisng/your-repo) -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ### 🧰 Tech Stack
 
@@ -81,37 +81,40 @@
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ### 📊 GitHub Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adisng&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=adisng&theme=radical&hide_border=true&include_all_commits=false&count_private=false" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=adisng&theme=radical&hide_border=true" /></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisng&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=pie&langs_count=8" />
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=adisng&theme=dark&hide_border=false)
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ### 🐍 Contribution Snake
 
-<!-- This animates daily and "eats" your real contribution graph. Setup steps are below. -->
+<!-- Animates daily — "eats" your real contribution graph. Setup steps below. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adisng/adisng/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adisng/adisng/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adisng/adisng/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
----
+### 📅 3D Contribution Calendar
 
-### 🏆 GitHub Trophies
+<!-- Isometric 3D version of your contribution graph, regenerated daily. Setup steps below. -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adisng/adisng/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</p>
 
-![](https://github-profile-trophy.vercel.app/?username=adisng&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=adisng&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 
 ### 🌐 Connect With Me
