@@ -1,0 +1,32 @@
+name: generate 3D contribution calendar
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # runs daily at 18:00 UTC (03:00 JST)
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: build
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: generate-github-profile-3d-contrib
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: adisng
+
+      - name: commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generate 3d contribution calendar" || exit 0
+          git push
