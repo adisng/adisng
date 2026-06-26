@@ -1,8 +1,13 @@
-<h1 align="center">Hi, I'm Aditya 👋</h1>
-<h3 align="center">AI/ML focused Full-Stack Developer · MCA Student</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aditya%20Singh&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=65&descSize=20" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4ea94b&center=true&vCenter=true&width=600&lines=Building+AI-powered+full-stack+apps;FastAPI+%2B+Next.js+%2B+LLMs;Currently+shipping+a+vanilla+JS+game+%F0%9F%8E%AE;Exploring+AWS+%26+n8n+automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4EA94B&center=true&vCenter=true&width=650&lines=Building+AI-powered+full-stack+apps;FastAPI+%2B+Next.js+%2B+LLMs+%2B+n8n;Currently+shipping+a+vanilla+JS+canvas+game+%F0%9F%8E%AE;Exploring+AWS+%26+agentic+automation" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=adisng&icon=5&color=4" /></a>
 </p>
 
 ---
@@ -18,6 +23,12 @@
 
 ---
 
+### 📈 Live Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adisng&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="100%"/>
+
+---
+
 ### 🚀 Featured Projects
 
 <table>
@@ -26,18 +37,18 @@
       <h4>🦆 Duck Hunter: Definitive Edition</h4>
       A vanilla HTML5 Canvas + JavaScript arcade shooter built with zero frameworks — custom state machine, DPR-aware canvas manager, getUserMedia camera integration, full combat/HUD system, and Playwright-driven smoke testing.
       <br/><br/>
-      <code>JavaScript</code> <code>HTML5 Canvas</code> <code>Playwright</code>
+      <img src="https://skillicons.dev/icons?i=js,html&theme=dark" />
     </td>
     <td width="50%" valign="top">
       <h4>🩺 Medical Triage Assistant</h4>
       Built for Google Prompt Wars 2025 — a vanilla JS app integrating Gemini 2.0 Flash, Google Search Grounding, Calendar API, Maps Embed & Identity Services, deployed on Google Cloud Run. Scored ~94%, with 97.5% on Security and 98.75% on Accessibility.
       <br/><br/>
-      <code>Gemini API</code> <code>Google Cloud Run</code> <code>Docker</code>
+      <img src="https://skillicons.dev/icons?i=js,gcp,docker&theme=dark" />
     </td>
   </tr>
 </table>
 
-<!-- Tip: add your repo links by wrapping each project title in
+<!-- Tip: wrap each project title in a link to its repo, e.g.
      [🦆 Duck Hunter: Definitive Edition](https://github.com/adisng/your-repo) -->
 
 ---
@@ -45,57 +56,29 @@
 ### 🧰 Tech Stack
 
 **Languages**
-<p>
-<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java,html,css,js&theme=dark" />
 
-**AI / Backend**
+**Frameworks & Backend**
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,bootstrap,nodejs,express,dotnet,fastapi&theme=dark" />
+
+**Cloud, DB & Tools**
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,mongodb,mysql,figma,notion,git&theme=dark" />
+
+**AI & Automation**
 <p>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white" />
 </p>
 
-**Frontend**
-<p>
-<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white" />
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" />
-</p>
-
-**Data & Databases**
+**Data & Design**
 <p>
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" />
-</p>
-
-**Cloud & DevOps**
-<p>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-</p>
-
-**Design & Tools**
-<p>
-<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" />
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" />
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" />
 </p>
 
 ---
@@ -109,6 +92,19 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adisng&theme=dark&hide_border=false)
 
+---
+
+### 🐍 Contribution Snake
+
+<!-- This animates daily and "eats" your real contribution graph. Setup steps are below. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adisng/adisng/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adisng/adisng/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adisng/adisng/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+---
+
 ### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=adisng&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
@@ -117,11 +113,6 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=adisng&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
----
 
 ### 🌐 Connect With Me
 
@@ -136,12 +127,8 @@
 
 <!-- Add more, e.g. LinkedIn / portfolio site, with the same <a><img/></a> pattern -->
 
----
-
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=adisng&icon=5&color=4" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </p>
 
 <!-- Built and refined with help from Claude -->
